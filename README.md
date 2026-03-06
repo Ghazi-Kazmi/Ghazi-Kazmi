@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghazi-Kazmi&theme=tokyo-night&hide_border=true&radius=10" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghazi-Kazmi&theme=tokyo-night&hide_border=true&radius=10&custom_title=Ghazi-Kazmi's+Last+30+Days+Activity" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -95,3 +95,15 @@
 </p>
 
 <p align="center"><i>Always open to interesting projects, collaborations, and conversations. Don't hesitate to reach out!</i></p>
+
+---
+
+## 👋 Guestbook
+
+<p align="center">
+  <a href="https://github.com/Ghazi-Kazmi/Ghazi-Kazmi/discussions/1">
+    <img src="https://img.shields.io/badge/Sign%20my%20Guestbook-%F0%9F%93%96%20Say%20Hi!-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Sign Guestbook" />
+  </a>
+</p>
+
+<p align="center"><i>Visiting my profile? Drop a message, say hi, or leave your socials in the guestbook 👇</i></p>
