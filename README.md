@@ -70,7 +70,7 @@
       <img src="https://streak-stats.demolab.com/?user=Ghazi-Kazmi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ghazi-Kazmi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Ghazi-Kazmi&theme=tokyonight&no-frame=true&column=3&margin-w=10" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
