@@ -62,16 +62,18 @@
 
 ## 🖼️ Highlights
 
-<div style="display: flex; gap: 10px; overflow-x: auto;">
-  <img src="./1.webp" width="220" height="220" style="object-fit:cover;border-radius:10px;" alt="Highlight 1" />
-  <img src="./2.jpg" width="220" height="220" style="object-fit:cover;border-radius:10px;" alt="Highlight 2" />
-  <img src="./3.JPG" width="220" height="220" style="object-fit:cover;border-radius:10px;" alt="Highlight 3" />
-  <img src="./4.jpg" width="220" height="220" style="object-fit:cover;border-radius:10px;" alt="Highlight 4" />
-  <img src="./5.JPG" width="220" height="220" style="object-fit:cover;border-radius:10px;" alt="Highlight 5" />
-  <img src="./6.JPG" width="220" height="220" style="object-fit:cover;border-radius:10px;" alt="Highlight 6" />
-  <img src="./7.jpg" width="220" height="220" style="object-fit:cover;border-radius:10px;" alt="Highlight 7" />
-  <img src="./8.JPG" width="220" height="220" style="object-fit:cover;border-radius:10px;" alt="Highlight 8" />
-</div>
+<table>
+  <tr>
+    <td><img src="./1.webp" width="160" alt="Highlight 1" /></td>
+    <td><img src="./2.jpg" width="160" alt="Highlight 2" /></td>
+    <td><img src="./3.JPG" width="160" alt="Highlight 3" /></td>
+    <td><img src="./4.jpg" width="160" alt="Highlight 4" /></td>
+    <td><img src="./5.JPG" width="160" alt="Highlight 5" /></td>
+    <td><img src="./6.JPG" width="160" alt="Highlight 6" /></td>
+    <td><img src="./7.jpg" width="160" alt="Highlight 7" /></td>
+    <td><img src="./8.JPG" width="160" alt="Highlight 8" /></td>
+  </tr>
+</table>
 
 ---
 
