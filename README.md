@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Syed Ghazi Raza 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer &nbsp;·&nbsp; GDGoC Campus Lead &nbsp;·&nbsp; Hackathon Winner</b>
+  <b>Full-Stack Software Engineer &nbsp;·&nbsp; Google DGoC Campus Lead &nbsp;·&nbsp; 21 </b>
 </p>
 
 <br/>
