@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-- 🏛️ Built real-world public systems — including the **Abbottabad Police Website** & **eDevice-CR Platform**
-- 🏆 **National Hackathon Winner** with proven end-to-end technical delivery
 - 🌍 **Google Developer Groups on Campus Lead** — recognized with a **National Best Ambassador Award**
+- 🏆 **National Hackathon Winner** with proven end-to-end technical delivery
+- 🏛️ Built real-world public systems — including the **Abbottabad Police Website** & **eDevice-CR Platform**
 - 🤝 Passionate about shipping impactful products and growing engineering communities
 
 ---
@@ -64,16 +64,13 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Ghazi-Kazmi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=Ghazi-Kazmi&theme=tokyonight&no-frame=true&column=3&margin-w=10" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ghazi-Kazmi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghazi-Kazmi&theme=tokyo-night&hide_border=true&radius=10" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
