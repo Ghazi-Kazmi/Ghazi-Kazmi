@@ -60,21 +60,6 @@
 
 ---
 
-## 🖼️ Highlights
-
-<table>
-  <tr>
-    <td><img src="./1.webp" width="160" alt="Highlight 1" /></td>
-    <td><img src="./2.jpg" width="160" alt="Highlight 2" /></td>
-    <td><img src="./3.JPG" width="160" alt="Highlight 3" /></td>
-    <td><img src="./4.jpg" width="160" alt="Highlight 4" /></td>
-    <td><img src="./5.JPG" width="160" alt="Highlight 5" /></td>
-    <td><img src="./6.JPG" width="160" alt="Highlight 6" /></td>
-    <td><img src="./7.jpg" width="160" alt="Highlight 7" /></td>
-    <td><img src="./8.JPG" width="160" alt="Highlight 8" /></td>
-  </tr>
-</table>
-
 ---
 
 ## 📊 GitHub Stats
