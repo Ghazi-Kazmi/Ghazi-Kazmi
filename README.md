@@ -8,7 +8,8 @@
 
 ## 🚀 About Me
 
-- 🌍 **Google Developer Groups on Campus Lead** — recognized with a **National Best Ambassador Award**
+- 🌍 **Google Developer Groups on Campus Lead** — leading and growing a thriving tech community
+- 🥇 **National Best Ambassador Award** @ **VisioSpark'25** — among participants from **35+ Universities across Pakistan**
 - 🏆 **National Hackathon Winner** with proven end-to-end technical delivery
 - 🏛️ Built real-world public systems — including the **Abbottabad Police Website** & **eDevice-CR Platform**
 - 🤝 Passionate about shipping impactful products and growing engineering communities
