@@ -1,14 +1,14 @@
 <h1 align="center">Hey, I'm Syed Ghazi Raza 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer &nbsp;·&nbsp; Google DGoC Campus Lead &nbsp;·&nbsp; 21 </b>
+  <b>Full-Stack Software Engineer &nbsp;·&nbsp; Lead, Google Developers Group  &nbsp;·&nbsp; 21 </b>
 </p>
 
 <br/>
 
 ## 🚀 About Me
 
-- 🌍 **Google Developer Groups on Campus Lead** — leading and growing a thriving tech community
+- 🌍 **Lead, Google Developer Groups on Campus** — leading and growing a thriving tech community
 - 🥇 **National Best Ambassador Award** @ **VisioSpark'25** — among participants from **35+ Universities across Pakistan**
 - 🏆 **National Hackathon Winner** with proven end-to-end technical delivery
 - 🏛️ Built real-world public systems — including the **Abbottabad Police Website** & **eDevice-CR Platform**
